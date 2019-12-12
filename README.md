@@ -49,3 +49,5 @@ Please cite if this has been useful:
   year={2018}
 }
 ```
+
+## How to apply to time series?
